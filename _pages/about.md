@@ -61,7 +61,7 @@ Liu, P.<sup>★</sup>, Du, M., Xu, Z., and **Chu, Y.** (2022). *Transportation R
 - *2023.07* **Oral Presentation** <u>"Human Factor Risks in Driving Automation Crashes."</u> *5th International Conference, MobiTAS 2023, held as part of the 25th HCI International Conference (HCII 2023).* July 23–28, 2023, Copenhagen, Denmark.
 
 # 🎖 Selected Honors and Awards
-- *2023.07* Best Paper Award of the 5th International Conference on HCl in Mobility, Transport and Automotive Systems.
+- *2023.07* Best Paper Award of the 5th International Conference on HCI in Mobility, Transport and Automotive Systems.
 - *2022.06* Outstanding Graduates of Zhejiang University, 2022
 - *2021.09* Zhejiang University Scholarship - First Prize (Top 3%) (2020-2021)
 - *2020.09* Zhejiang Provincial Scholarship (2019-2020)
