@@ -24,7 +24,8 @@ I graduated from the Department of Psychology and Behavioral Sciences at Zhejian
 My research interests include areas of machine psychology, such as human-automation interaction (HAI). As highly automated agents are integrated into society, their role in HAI is evolving from being mere tools to acting as teammates or social actors. I am interested in various kinds of automated agents, including automated vehicles, large language models, and algorithms.
 
 
-# 📝 Publications 
+# 📝 Publications
+*Corresponding author<sup>★</sup>*
 ## Peer-reviewed journal articles
 - [To Err is Automation: Can Trust be Repaired by the Automated Driving System After its Failure?](https://doi.org/10.1109/THMS.2024.3434680)
 Liu, P., **Chu, Y.**, Wang, G., and Xu, Z.<sup>★</sup> (in press). *IEEE Transactions on Human-Machine Systems.*
@@ -51,7 +52,7 @@ Liu, P.<sup>★</sup>, Du, M., Xu, Z., and **Chu, Y.** (2022). *Transportation R
 - [What does that car mean? The influence of vehicle motion and symbolic patterns of LED signals on pedestrians’ interpretation of a vehicle’s intent](https://doi.org/10.1177/1071181322661390)
 **Chu, Y.**, Hariharan, D., Hollar, S., and Feng, J.<sup>★</sup> (2022). In *Proceedings of the Human Factors and Ergonomics Society Annual Meeting*, *66*(1), 977–981. Atlanta, Georgia, October 10-14.
 
-# 💬 Oral Presentation and Poster
+# 💬 Oral Presentations and Posters
 - *2024.08* **Oral Presentation** <u>"Examining a dual-process model for explaining the effectiveness of trust repair in human-automation interaction"</u> *22nd Triennial Congress of the International Ergonomics Association (IEA) Jointly with INCOSE HSI2024 (3rd INCOSE International Conference on Human Systems Integration).* August 25-29, 2024, ICC JEJU, Republic of Korea.
 - *2024.07* **Oral Presentation** <u>"Dynamic Trust Repair: Conceptual and Feasibility Analysis"</u> *15th International Conference on Applied Human Factors and Ergonomics (AHFE 2024) and the Affiliated Conferences.* July 24-27, 2024, Université Côte d'Azur, Nice, France.
 - *2024.06* **Oral Presentation** <u>"Are large language models more rational than humans in ascribing responsibility?"</u> *Fourth International Workshop on Logics for New-Generation Artificial Intelligence.* June 15-16, 2024, Hangzhou, China.
