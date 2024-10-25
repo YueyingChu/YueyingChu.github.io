@@ -1,0 +1,17 @@
+# main links links
+main:
+  - title: "About Me"
+    url: "/#about-me"
+
+  - title: "Publications"
+    url: "/#-publications"
+
+
+  - title: "Oral Presentations and Posters"
+    url: "/#-oral-presentations-and-posters"
+  
+  - title: "Selected Honors and Awards"
+    url: "/#-selected-honors-and-awards"
+  
+  - title: "Educations"
+    url: "/#-educations"
