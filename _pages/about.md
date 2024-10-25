@@ -28,7 +28,7 @@ My research interests include areas of machine psychology, such as human-automat
 *Corresponding author<sup>★</sup>*
 ## Peer-reviewed journal articles
 - [To Err is Automation: Can Trust be Repaired by the Automated Driving System After its Failure?](https://doi.org/10.1109/THMS.2024.3434680)
-Liu, P., **Chu, Y.**, Wang, G., and Xu, Z.<sup>★</sup> (in press). *IEEE Transactions on Human-Machine Systems.*
+Liu, P., **Chu, Y.**, Wang, G., and Xu, Z.<sup>★</sup> (in press). *IEEE Transactions on Human-Machine Systems.*, *54*(5), 508–519.
 
 - [Automation complacency on the road.](https://doi.org/10.1080/00140139.2023.2210793)
 **Chu, Y.** and Liu, P.<sup>★</sup> (2023). *Ergonomics*, *66*(11), 1730-1749.
