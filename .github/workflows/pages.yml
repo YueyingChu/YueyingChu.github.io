@@ -1,0 +1,26 @@
+name: Deploy GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      # 如果有构建步骤，例如生成静态页面，可以加上构建步骤
+      - name: Build project
+        run: echo "Building project..."  # 将其替换为真实的构建命令
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: main   # 注意这里仍然是 main 分支
+          publish_dir: ./        # 部署目录指向根目录或实际生成的文件夹
