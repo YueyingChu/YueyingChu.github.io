@@ -25,32 +25,35 @@ My research interests include areas of machine psychology, such as human-automat
 
 
 # 📝 Publications
-*Corresponding author<sup>★</sup>*
+<sup>#</sup>These authors contributed equally to this work; <sup>★</sup>Corresponding author(s)
 ## Peer-reviewed journal articles
+- [Credit and Blame for AI-Generated Content: Effects of Personalization in Four Countries](https://www.academia.edu/125168210/Credit_and_blame_for_AI_generated_content_effects_of_personalization_in_four_countries)
+Brian D. Earp<sup>#</sup>, Sebastian Porsdam Mann<sup>#</sup>, Peng Liu<sup>#,★</sup>, Ivar Hannikainen<sup>#,★</sup>, Maryam Ali Khan, **Yueying Chu**, and Julian Savulescu (accepted). Annals of the New York Academy of Sciences.
+
 - [To Err is Automation: Can Trust be Repaired by the Automated Driving System After its Failure?](https://doi.org/10.1109/THMS.2024.3434680)
-Liu, P., **Chu, Y.**, Wang, G., and Xu, Z.<sup>★</sup> (in press). *IEEE Transactions on Human-Machine Systems*, *54*(5), 508–519.
+Peng Liu, **Yueying Chu**, Guanqun Wang, and Zhigang Xu<sup>★</sup> (2024). *IEEE Transactions on Human-Machine Systems*, *54*(5), 508–519.
 
 - [Automation complacency on the road.](https://doi.org/10.1080/00140139.2023.2210793)
-**Chu, Y.** and Liu, P.<sup>★</sup> (2023). *Ergonomics*, *66*(11), 1730-1749.
+**Yueying Chu** and Peng Liu<sup>★</sup> (2023). *Ergonomics*, *66*(11), 1730-1749.
 
 - [Machines and humans in sacrificial moral dilemmas: Required similarly but judged differently?](https://doi.org/10.1016/j.cognition.2023.105575)
-**Chu, Y.** and Liu, P.<sup>★</sup> (2023). *Cognition*, *239*, 105575.
+**Yueying Chu** and Peng Liu<sup>★</sup> (2023). *Cognition*, *239*, 105575.
 
 - [Public aversion against ChatGPT in creative fields?](https://doi.org/10.1016/j.xinn.2023.100449)
-**Chu, Y.** and Liu, P.<sup>★</sup> (2023). *The Innovation*, *4*(4), 100449.
+**Yueying Chu** and Peng Liu<sup>★</sup> (2023). *The Innovation*, *4*(4), 100449.
 
 - [People with more misconceptions about automated vehicles might be more positive toward them.](https://doi.org/10.1016/j.trf.2022.04.010)
-Liu, P.<sup>★</sup>, Du, M., Xu, Z., and **Chu, Y.** (2022). *Transportation Research Part F: Traffic Psychology and Behaviour*, *87*, 264-278.
+Peng Liu<sup>★</sup>, Manqing Du, Zhigang Xu, and **Yueying Chu** (2022). *Transportation Research Part F: Traffic Psychology and Behaviour*, *87*, 264-278.
 
 ## Peer-reviewed conference proceedings and papers
 - [Privacy Concern and Acceptability of Driver Monitoring System](https://doi.org/10.54941/ahfe1004419)
-**Chu, Y.**, Yuan, Z., and Liu, P.<sup>★</sup> (2023). In *2023 AHFE International Conference on Human Factors in Design, Engineering, and Computing (AHFE 2023 Hawaii Edition)*, Honolulu, Hawaii, December 4-6.
+**Yueying Chu**, Zihui Yuan, and Peng Liu<sup>★</sup> (2023). In *2023 AHFE International Conference on Human Factors in Design, Engineering, and Computing (AHFE 2023 Hawaii Edition)*, Honolulu, Hawaii, December 4-6.
 
 - [Human factor risks in driving automation crashes](https://doi.org/10.1007/978-3-031-35678-0_1) (🏆**Best Paper Award** )
-**Chu, Y.** and Liu, P.<sup>★</sup> (2023). In *5th International Conference, MobiTAS 2023, held as part of the 25th HCI International Conference (HCII 2023)*, Copenhagen, Denmark, July 23–28.
+**Yueying Chu** and Peng Liu<sup>★</sup> (2023). In *5th International Conference, MobiTAS 2023, held as part of the 25th HCI International Conference (HCII 2023)*, Copenhagen, Denmark, July 23–28.
 
 - [What does that car mean? The influence of vehicle motion and symbolic patterns of LED signals on pedestrians’ interpretation of a vehicle’s intent](https://doi.org/10.1177/1071181322661390)
-**Chu, Y.**, Hariharan, D., Hollar, S., and Feng, J.<sup>★</sup> (2022). In *Proceedings of the Human Factors and Ergonomics Society Annual Meeting*, *66*(1), 977–981. Atlanta, Georgia, October 10-14.
+**Yueying Chu**, Deveshwar Hariharan, Seth Hollar, and Jing Feng<sup>★</sup> (2022). In *Proceedings of the Human Factors and Ergonomics Society Annual Meeting*, *66*(1), 977–981. Atlanta, Georgia, October 10-14.
 
 # 💬 Oral Presentations and Posters
 - *2024.08* **Oral Presentation** <u>"Examining a dual-process model for explaining the effectiveness of trust repair in human-automation interaction"</u> *22nd Triennial Congress of the International Ergonomics Association (IEA) Jointly with INCOSE HSI2024 (3rd INCOSE International Conference on Human Systems Integration).* August 25-29, 2024, ICC JEJU, Republic of Korea.
