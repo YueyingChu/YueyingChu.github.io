@@ -27,11 +27,11 @@ My research interests include areas of machine psychology, such as human-automat
 # 📝 Publications
 <sup>#</sup>These authors contributed equally to this work; <sup>\*</sup>Corresponding author(s)
 ## Peer-reviewed journal articles
-- [Morality on the road: Should machine drivers be more utilitarian than human drivers?]
-Peng Liu<sup>\*</sup>, **Yueying Chu**, Siming Zhai, Tingru Zhang<sup>\*</sup>, and Edmond Awad. *Cognition* (accepted).
-
 - [Machine Creativity: Aversion, Appreciation, or Indifference?]
 Peng Liu<sup>\*</sup>, **Yueying Chu**, Yandong Zhao, and Siming Zhai. *Psychology of Aesthetics, Creativity, and the Arts* (accepted).
+
+- [Morality on the road: Should machine drivers be more utilitarian than human drivers?](https://doi.org/10.1016/j.cognition.2024.106011)
+Peng Liu<sup>\*</sup>, **Yueying Chu**, Siming Zhai, Tingru Zhang<sup>\*</sup>, and Edmond Awad (2025). *Cognition*, *254*, 106011.
 
 - [Credit and Blame for AI-Generated Content: Effects of Personalization in Four Countries](https://www.academia.edu/125168210/Credit_and_blame_for_AI_generated_content_effects_of_personalization_in_four_countries)
 Brian D. Earp<sup>#</sup>, Sebastian Porsdam Mann<sup>#</sup>, Peng Liu<sup>#,\*</sup>, Ivar Hannikainen<sup>#,\*</sup>, Maryam Ali Khan, **Yueying Chu**, and Julian Savulescu. *Annals of the New York Academy of Sciences* (accepted).
