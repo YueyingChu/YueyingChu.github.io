@@ -34,7 +34,7 @@ Peng Liu<sup>\*</sup>, **Yueying Chu**, Yandong Zhao, and Siming Zhai. *Psycholo
 Peng Liu<sup>\*</sup>, **Yueying Chu**, Siming Zhai, Tingru Zhang<sup>\*</sup>, and Edmond Awad (2025). *Cognition*, *254*, 106011.
 
 - [Credit and Blame for AI-Generated Content: Effects of Personalization in Four Countries](https://www.academia.edu/125168210/Credit_and_blame_for_AI_generated_content_effects_of_personalization_in_four_countries)
-Brian D. Earp<sup>#</sup>, Sebastian Porsdam Mann<sup>#</sup>, Peng Liu<sup>#,\*</sup>, Ivar Hannikainen<sup>#,\*</sup>, Maryam Ali Khan, **Yueying Chu**, and Julian Savulescu. *Annals of the New York Academy of Sciences* (accepted).
+Brian D. Earp<sup>#</sup>, Sebastian Porsdam Mann<sup>#</sup>, Peng Liu<sup>#,\*</sup>, Ivar Hannikainen<sup>#,\*</sup>, Maryam Ali Khan, **Yueying Chu**, and Julian Savulescu. *Annals of the New York Academy of Sciences*, *1542*, 51-57.
 
 - [To Err is Automation: Can Trust be Repaired by the Automated Driving System After its Failure?](https://doi.org/10.1109/THMS.2024.3434680)
 Peng Liu, **Yueying Chu**, Guanqun Wang, and Zhigang Xu<sup>\*</sup> (2024). *IEEE Transactions on Human-Machine Systems*, *54*(5), 508–519.
