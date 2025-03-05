@@ -27,7 +27,7 @@ My research interests include areas of machine psychology, such as human-automat
 # 📝 Publications
 <sup>#</sup>These authors contributed equally to this work; <sup>\*</sup>Corresponding author(s)
 ## Peer-reviewed journal articles
-- [Machine Creativity: Aversion, Appreciation, or Indifference?]
+- [Machine Creativity: Aversion, Appreciation, or Indifference?](https://psycnet.apa.org/doi/10.1037/aca0000739)
 Peng Liu<sup>\*</sup>, **Yueying Chu**, Yandong Zhao, and Siming Zhai. *Psychology of Aesthetics, Creativity, and the Arts* (accepted).
 
 - [Morality on the road: Should machine drivers be more utilitarian than human drivers?](https://doi.org/10.1016/j.cognition.2024.106011)
@@ -62,6 +62,8 @@ Peng Liu<sup>\*</sup>, Manqing Du, Zhigang Xu, and **Yueying Chu** (2022). *Tran
 **Yueying Chu**, Deveshwar Hariharan, Seth Hollar, and Jing Feng<sup>\*</sup> (2022). In *Proceedings of the Human Factors and Ergonomics Society Annual Meeting*, *66*(1), 977–981. Atlanta, Georgia, October 10-14.
 
 # 💬 Oral Presentations and Posters
+- *2025.01* **Oral Presentation** <u>"To Apologize or Not to Apologize? Trust Repair After Automated Vehicles’ Mistake"</u> *104th Transportation Research Board (TRB) Annual Meeting.* January 5-9, 2025, Washinton DC, USA.
+- *2025.01* **Poster** <u>"Can External Human-Machine Interfaces Promote Prosocial Intentions of Human Drivers Toward Automated Vehicles in Mixed Traffic?"</u> *104th Transportation Research Board (TRB) Annual Meeting.* January 5-9, 2025, Washinton DC, USA.
 - *2024.08* **Oral Presentation** <u>"Examining a dual-process model for explaining the effectiveness of trust repair in human-automation interaction"</u> *22nd Triennial Congress of the International Ergonomics Association (IEA) Jointly with INCOSE HSI2024 (3rd INCOSE International Conference on Human Systems Integration).* August 25-29, 2024, ICC JEJU, Republic of Korea.
 - *2024.07* **Oral Presentation** <u>"Dynamic Trust Repair: Conceptual and Feasibility Analysis"</u> *15th International Conference on Applied Human Factors and Ergonomics (AHFE 2024) and the Affiliated Conferences.* July 24-27, 2024, Université Côte d'Azur, Nice, France.
 - *2024.06* **Oral Presentation** <u>"Are large language models more rational than humans in ascribing responsibility?"</u> *Fourth International Workshop on Logics for New-Generation Artificial Intelligence.* June 15-16, 2024, Hangzhou, China.
