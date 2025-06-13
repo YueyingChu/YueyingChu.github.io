@@ -62,6 +62,7 @@ Peng Liu<sup>\*</sup>, Manqing Du, Zhigang Xu, and **Yueying Chu** (2022). *Tran
 **Yueying Chu**, Deveshwar Hariharan, Seth Hollar, and Jing Feng<sup>\*</sup> (2022). In *Proceedings of the Human Factors and Ergonomics Society Annual Meeting*, *66*(1), 977–981. Atlanta, Georgia, October 10-14.
 
 # 💬 Oral Presentations and Posters
+## As a presenter🎤
 - *2025.01* **Oral Presentation** <u>"To Apologize or Not to Apologize? Trust Repair After Automated Vehicles’ Mistake"</u> *104th Transportation Research Board (TRB) Annual Meeting.* January 5-9, 2025, Washinton DC, USA.
 - *2025.01* **Poster** <u>"Can External Human-Machine Interfaces Promote Prosocial Intentions of Human Drivers Toward Automated Vehicles in Mixed Traffic?"</u> *104th Transportation Research Board (TRB) Annual Meeting.* January 5-9, 2025, Washinton DC, USA.
 - *2024.08* **Oral Presentation** <u>"Examining a dual-process model for explaining the effectiveness of trust repair in human-automation interaction"</u> *22nd Triennial Congress of the International Ergonomics Association (IEA) Jointly with INCOSE HSI2024 (3rd INCOSE International Conference on Human Systems Integration).* August 25-29, 2024, ICC JEJU, Republic of Korea.
@@ -70,6 +71,9 @@ Peng Liu<sup>\*</sup>, Manqing Du, Zhigang Xu, and **Yueying Chu** (2022). *Tran
 - *2023.12* **Oral Presentation** <u>"Privacy Concern and Acceptability of Driver Monitoring System"</u> *2023 AHFE International Conference on Human Factors in Design, Engineering, and Computing (AHFE 2023 Hawaii Edition) Applications for Interservice and Industry.* December 4-6, 2023, Waikiki Beach Marriott Resort & Spa, Honolulu, Hawaii, USA.
 - *2023.11* **Oral Presentation** <u>"自动化自满概念：挑战与影响 (The concept of automation complacency: Challenges and implications)."</u> *浙江省心理学会学术年会 (Zhejiang Psychology Association Annual Meeting).* November 24-26, 2023, Huzhou, China.
 - *2023.07* **Oral Presentation** <u>"Human Factor Risks in Driving Automation Crashes."</u> *5th International Conference, MobiTAS 2023, held as part of the 25th HCI International Conference (HCII 2023).* July 23–28, 2023, Copenhagen, Denmark.
+## Others
+- *2025.07* **Poster** <u>"Temporal shifts in human perception of automated vehicles"</u> *11th International Conference on Computational Social Science (IC2S2).* July 21-24, 2025, Norrköping, Sweden.
+- *2025.06* **Talk** <u>"Co-creating artistic images with generative AI: personalisation boosts credit attribution, but not aesthetic appreciation"</u> *5th European Experimental Philosophy Conference (XPhi Europe 2025).* July 10-12, 2025, UEA, Norwich, UK.
 
 # 🎖 Selected Honors and Awards
 - *2023.07* Best Paper Award of the 5th International Conference on HCI in Mobility, Transport and Automotive Systems.
