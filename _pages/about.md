@@ -76,7 +76,7 @@ Peng Liu<sup>\*</sup>, Manqing Du, Zhigang Xu, and **Yueying Chu** (2022). *Tran
 - *2025.06* **Talk** <u>"Co-creating artistic images with generative AI: personalisation boosts credit attribution, but not aesthetic appreciation"</u> *5th European Experimental Philosophy Conference (XPhi Europe 2025).* July 10-12, 2025, UEA, Norwich, UK.
 
 # 🎖 Selected Honors and Awards
-- *2025.01* Zhejiang University Qiushi Xinxing Program
+- *2025.01* Zhejiang University Qiushi Xinxing (new star) Program
 - *2024.12* Zhejiang University Qiushi Feiying Program (NUS visiting student)
 - *2023.07* Best Paper Award of the 5th International Conference on HCI in Mobility, Transport and Automotive Systems.
 - *2022.06* Outstanding Graduates of Zhejiang University, 2022
