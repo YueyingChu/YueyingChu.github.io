@@ -27,14 +27,17 @@ My research interests include areas of machine psychology, such as human-automat
 # 📝 Publications
 <sup>#</sup>These authors contributed equally to this work; <sup>\*</sup>Corresponding author(s)
 ## Peer-reviewed journal articles
+- [Road Rage Against the Machine: Humans and LLMs Share a Blame Bias Against Driverless Cars](https://doi.org/10.1080/10447318.2025.2526593)
+**Yueying Chu**, Peng Liu<sup>\*</sup>, Julian Savulescu, Brian D. Earp (2025). *International Journal of Human–Computer Interaction*, 1–11.
+
 - [Machine Creativity: Aversion, Appreciation, or Indifference?](https://psycnet.apa.org/doi/10.1037/aca0000739)
-Peng Liu<sup>\*</sup>, **Yueying Chu**, Yandong Zhao, and Siming Zhai. *Psychology of Aesthetics, Creativity, and the Arts* (accepted).
+Peng Liu<sup>\*</sup>, **Yueying Chu**, Yandong Zhao, and Siming Zhai (2025). *Psychology of Aesthetics, Creativity, and the Arts* (Advance online publication).
 
 - [Morality on the road: Should machine drivers be more utilitarian than human drivers?](https://doi.org/10.1016/j.cognition.2024.106011)
 Peng Liu<sup>\*</sup>, **Yueying Chu**, Siming Zhai, Tingru Zhang<sup>\*</sup>, and Edmond Awad (2025). *Cognition*, *254*, 106011.
 
-- [Credit and Blame for AI-Generated Content: Effects of Personalization in Four Countries](https://www.academia.edu/125168210/Credit_and_blame_for_AI_generated_content_effects_of_personalization_in_four_countries)
-Brian D. Earp<sup>#</sup>, Sebastian Porsdam Mann<sup>#</sup>, Peng Liu<sup>#,\*</sup>, Ivar Hannikainen<sup>#,\*</sup>, Maryam Ali Khan, **Yueying Chu**, and Julian Savulescu. *Annals of the New York Academy of Sciences*, *1542*, 51-57.
+- [Credit and Blame for AI-Generated Content: Effects of Personalization in Four Countries](https://doi.org/10.1111/nyas.15258)
+Brian D. Earp<sup>#</sup>, Sebastian Porsdam Mann<sup>#</sup>, Peng Liu<sup>#,\*</sup>, Ivar Hannikainen<sup>#,\*</sup>, Maryam Ali Khan, **Yueying Chu**, and Julian Savulescu (2024). *Annals of the New York Academy of Sciences*, *1542*, 51-57.
 
 - [To Err is Automation: Can Trust be Repaired by the Automated Driving System After its Failure?](https://doi.org/10.1109/THMS.2024.3434680)
 Peng Liu, **Yueying Chu**, Guanqun Wang, and Zhigang Xu<sup>\*</sup> (2024). *IEEE Transactions on Human-Machine Systems*, *54*(5), 508–519.
