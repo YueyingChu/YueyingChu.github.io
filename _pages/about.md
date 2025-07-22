@@ -1,4 +1,4 @@
-<img width="432" height="22" alt="image" src="https://github.com/user-attachments/assets/e0dfe618-8136-403c-9060-e0ef9240864a" />---
+---
 permalink: /
 title: ""
 excerpt: ""
@@ -27,44 +27,44 @@ My research interests include areas of machine psychology, such as human-automat
 # 📝 Publications
 <sup>#</sup>These authors contributed equally to this work; <sup>\*</sup>Corresponding author(s)
 ## Peer-reviewed journal articles
-- [To Apologize or Not to Apologize? Trust Repair After Automated Vehicles' Mistake]
+- **To Apologize or Not to Apologize? Trust Repair After Automated Vehicles' Mistake**  
 Yunhao Cai<sup>#</sup>, **Yueying Chu<sup>#</sup>**, Zhigang Xu, Peng Liu<sup>\*</sup> (accepted). *Transportation Research Record*
 
-- [Road Rage Against the Machine: Humans and LLMs Share a Blame Bias Against Driverless Cars](https://doi.org/10.1080/10447318.2025.2526593)
+- [Road Rage Against the Machine: Humans and LLMs Share a Blame Bias Against Driverless Cars](https://doi.org/10.1080/10447318.2025.2526593)  
 **Yueying Chu**, Peng Liu<sup>\*</sup>, Julian Savulescu, Brian D. Earp (2025). *International Journal of Human–Computer Interaction*, 1–11.
 
-- [Machine Creativity: Aversion, Appreciation, or Indifference?](https://psycnet.apa.org/doi/10.1037/aca0000739)
+- [Machine Creativity: Aversion, Appreciation, or Indifference?](https://psycnet.apa.org/doi/10.1037/aca0000739)  
 Peng Liu<sup>\*</sup>, **Yueying Chu**, Yandong Zhao, and Siming Zhai (2025). *Psychology of Aesthetics, Creativity, and the Arts* (Advance online publication).
 
-- [Morality on the road: Should machine drivers be more utilitarian than human drivers?](https://doi.org/10.1016/j.cognition.2024.106011)
+- [Morality on the road: Should machine drivers be more utilitarian than human drivers?](https://doi.org/10.1016/j.cognition.2024.106011)  
 Peng Liu<sup>\*</sup>, **Yueying Chu**, Siming Zhai, Tingru Zhang<sup>\*</sup>, and Edmond Awad (2025). *Cognition*, *254*, 106011.
 
-- [Credit and Blame for AI-Generated Content: Effects of Personalization in Four Countries](https://doi.org/10.1111/nyas.15258)
+- [Credit and Blame for AI-Generated Content: Effects of Personalization in Four Countries](https://doi.org/10.1111/nyas.15258)  
 Brian D. Earp<sup>#</sup>, Sebastian Porsdam Mann<sup>#</sup>, Peng Liu<sup>#,\*</sup>, Ivar Hannikainen<sup>#,\*</sup>, Maryam Ali Khan, **Yueying Chu**, and Julian Savulescu (2024). *Annals of the New York Academy of Sciences*, *1542*, 51-57.
 
-- [To Err is Automation: Can Trust be Repaired by the Automated Driving System After its Failure?](https://doi.org/10.1109/THMS.2024.3434680)
+- [To Err is Automation: Can Trust be Repaired by the Automated Driving System After its Failure?](https://doi.org/10.1109/THMS.2024.3434680)  
 Peng Liu, **Yueying Chu**, Guanqun Wang, and Zhigang Xu<sup>\*</sup> (2024). *IEEE Transactions on Human-Machine Systems*, *54*(5), 508–519.
 
-- [Automation complacency on the road.](https://doi.org/10.1080/00140139.2023.2210793)
+- [Automation complacency on the road.](https://doi.org/10.1080/00140139.2023.2210793)  
 **Yueying Chu** and Peng Liu<sup>\*</sup> (2023). *Ergonomics*, *66*(11), 1730-1749.
 
-- [Machines and humans in sacrificial moral dilemmas: Required similarly but judged differently?](https://doi.org/10.1016/j.cognition.2023.105575)
+- [Machines and humans in sacrificial moral dilemmas: Required similarly but judged differently?](https://doi.org/10.1016/j.cognition.2023.105575)  
 **Yueying Chu** and Peng Liu<sup>\*</sup> (2023). *Cognition*, *239*, 105575.
 
-- [Public aversion against ChatGPT in creative fields?](https://doi.org/10.1016/j.xinn.2023.100449)
+- [Public aversion against ChatGPT in creative fields?](https://doi.org/10.1016/j.xinn.2023.100449)  
 **Yueying Chu** and Peng Liu<sup>\*</sup> (2023). *The Innovation*, *4*(4), 100449.
 
-- [People with more misconceptions about automated vehicles might be more positive toward them.](https://doi.org/10.1016/j.trf.2022.04.010)
+- [People with more misconceptions about automated vehicles might be more positive toward them.](https://doi.org/10.1016/j.trf.2022.04.010)  
 Peng Liu<sup>\*</sup>, Manqing Du, Zhigang Xu, and **Yueying Chu** (2022). *Transportation Research Part F: Traffic Psychology and Behaviour*, *87*, 264-278.
 
 ## Peer-reviewed conference proceedings and papers
-- [Privacy Concern and Acceptability of Driver Monitoring System](https://doi.org/10.54941/ahfe1004419)
+- [Privacy Concern and Acceptability of Driver Monitoring System](https://doi.org/10.54941/ahfe1004419)  
 **Yueying Chu**, Zihui Yuan, and Peng Liu<sup>\*</sup> (2023). In *2023 AHFE International Conference on Human Factors in Design, Engineering, and Computing (AHFE 2023 Hawaii Edition)*, Honolulu, Hawaii, December 4-6.
 
-- [Human factor risks in driving automation crashes](https://doi.org/10.1007/978-3-031-35678-0_1) (🏆**Best Paper Award** )
+- [Human factor risks in driving automation crashes](https://doi.org/10.1007/978-3-031-35678-0_1) (🏆**Best Paper Award**)  
 **Yueying Chu** and Peng Liu<sup>\*</sup> (2023). In *5th International Conference, MobiTAS 2023, held as part of the 25th HCI International Conference (HCII 2023)*, Copenhagen, Denmark, July 23–28.
 
-- [What does that car mean? The influence of vehicle motion and symbolic patterns of LED signals on pedestrians’ interpretation of a vehicle’s intent](https://doi.org/10.1177/1071181322661390)
+- [What does that car mean? The influence of vehicle motion and symbolic patterns of LED signals on pedestrians’ interpretation of a vehicle’s intent](https://doi.org/10.1177/1071181322661390)  
 **Yueying Chu**, Deveshwar Hariharan, Seth Hollar, and Jing Feng<sup>\*</sup> (2022). In *Proceedings of the Human Factors and Ergonomics Society Annual Meeting*, *66*(1), 977–981. Atlanta, Georgia, October 10-14.
 
 # 💬 Oral Presentations and Posters
