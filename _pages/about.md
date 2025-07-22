@@ -1,4 +1,4 @@
----
+<img width="432" height="22" alt="image" src="https://github.com/user-attachments/assets/e0dfe618-8136-403c-9060-e0ef9240864a" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -27,6 +27,9 @@ My research interests include areas of machine psychology, such as human-automat
 # 📝 Publications
 <sup>#</sup>These authors contributed equally to this work; <sup>\*</sup>Corresponding author(s)
 ## Peer-reviewed journal articles
+- [To Apologize or Not to Apologize? Trust Repair After Automated Vehicles' Mistake]
+Yunhao Cai<sup>#</sup>, **Yueying Chu<sup>#</sup>**, Zhigang Xu, Peng Liu<sup>\*</sup> (accepted). *Transportation Research Record*
+
 - [Road Rage Against the Machine: Humans and LLMs Share a Blame Bias Against Driverless Cars](https://doi.org/10.1080/10447318.2025.2526593)
 **Yueying Chu**, Peng Liu<sup>\*</sup>, Julian Savulescu, Brian D. Earp (2025). *International Journal of Human–Computer Interaction*, 1–11.
 
