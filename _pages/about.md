@@ -16,13 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+I am currently a PhD candidate in Psychology at Zhejiang University, affiliated with the Center for Psychological Sciences and the Department of Psychology and Behavioral Sciences. Since 2025, I have also been a visiting PhD student at the Centre for Biomedical Ethics, National University of Singapore.
 
-I am currently working toward a PhD degree in Psychology at the Center for Psychological Sciences (浙江大学心理科学研究中心), Zhejiang University, under the supervision of Prof. Peng Liu. I am also affiliated with the Department of Psychology and Behavioral Sciences (浙江大学心理与行为科学系), Zhejiang University.
-
-I graduated from the Department of Psychology and Behavioral Sciences at Zhejiang University with a bachelor’s degree. 
-
-My research interests include areas of machine psychology, such as human-automation interaction (HAI). As highly automated agents are integrated into society, their role in HAI is evolving from being mere tools to acting as teammates or social actors. I am interested in various kinds of automated agents, including automated vehicles, large language models, and algorithms.
-
+My research integrates perspectives from machine psychology and moral psychology to explore how individuals make moral judgments in both human and human–AI contexts. I am particularly interested in the role of interpersonal relationships in shaping moral evaluations and responsibility attributions. My work combines experimental methods with behavioral analysis to understand how emerging technologies challenge and transform moral cognition.
 
 # 📝 Publications
 <sup>#</sup>These authors contributed equally to this work; <sup>\*</sup>Corresponding author(s)
