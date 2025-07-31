@@ -87,10 +87,10 @@ Peng Liu<sup>\*</sup>, Manqing Du, Zhigang Xu, and **Yueying Chu** (2022). *Tran
 - *2021.09* Zhejiang University Scholarship - First Prize (Top 3%) (2020-2021)
 - *2020.09* Zhejiang Provincial Scholarship (2019-2020)
 
-# 🎖 Academic Service
-- *Reviewer:* Journal of Medical Ethics
-- *Co-chair:* AHFE2024 Session 102: Interaction with Emerging Technologies II
-- *Co-chair:* HCII2023 S012: Human and social sides of automated vehicles
+# 📄 Academic Service
+- **Reviewer:** Journal of Medical Ethics
+- **Co-chair:** AHFE2024 Session 102: Interaction with Emerging Technologies II
+- **Co-chair:** HCII2023 S012: Human and social sides of automated vehicles
 
 # 📖 Educations
 - *2022.09 - now*, PhD candicate, Zhejiang Univeristy, Hangzhou. 
