@@ -80,11 +80,17 @@ Peng Liu<sup>\*</sup>, Manqing Du, Zhigang Xu, and **Yueying Chu** (2022). *Tran
 # 🎖 Selected Honors and Awards
 - *2025.01* Zhejiang University Qiushi Xinxing (new star) Program
 - *2024.12* Zhejiang University Qiushi Feiying Program (NUS visiting student)
+- *2023* Zhejiang University, Outstanding Graduate Student (2022-2023)
+- *2023* Transfer, Transfer Third Scholarship (2022-2023)
 - *2023.07* Best Paper Award of the 5th International Conference on HCI in Mobility, Transport and Automotive Systems.
 - *2022.06* Outstanding Graduates of Zhejiang University, 2022
 - *2021.09* Zhejiang University Scholarship - First Prize (Top 3%) (2020-2021)
 - *2020.09* Zhejiang Provincial Scholarship (2019-2020)
 
+# 🎖 Academic Service
+- *Reviewer:* Journal of Medical Ethics
+- *Co-chair:* AHFE2024 Session 102: Interaction with Emerging Technologies II
+- *Co-chair:* HCII2023 S012: Human and social sides of automated vehicles
 
 # 📖 Educations
 - *2022.09 - now*, PhD candicate, Zhejiang Univeristy, Hangzhou. 
