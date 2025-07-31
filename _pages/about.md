@@ -23,11 +23,11 @@ My research integrates perspectives from machine psychology and moral psychology
 # 📝 Publications
 <sup>#</sup>These authors contributed equally to this work; <sup>\*</sup>Corresponding author(s)
 ## Peer-reviewed journal articles
-- **To Apologize or Not to Apologize? Trust Repair After Automated Vehicles' Mistake**  
-Yunhao Cai<sup>#</sup>, **Yueying Chu<sup>#</sup>**, Zhigang Xu, Peng Liu<sup>\*</sup> (accepted). *Transportation Research Record*
+- [To Apologize or Not to Apologize? Trust Repair After Automated Vehicles' Mistake](https://doi.org/10.1177/03611981251355535)  
+Yunhao Cai<sup>#</sup>, **Yueying Chu<sup>#</sup>**, Zhigang Xu, Peng Liu<sup>\*</sup> (in press). *Transportation Research Record*
 
 - [Road Rage Against the Machine: Humans and LLMs Share a Blame Bias Against Driverless Cars](https://doi.org/10.1080/10447318.2025.2526593)  
-**Yueying Chu**, Peng Liu<sup>\*</sup>, Julian Savulescu, Brian D. Earp (2025). *International Journal of Human–Computer Interaction*, 1–11.
+**Yueying Chu**, Peng Liu<sup>\*</sup>, Julian Savulescu, Brian D. Earp (in press). *International Journal of Human–Computer Interaction*
 
 - [Machine Creativity: Aversion, Appreciation, or Indifference?](https://psycnet.apa.org/doi/10.1037/aca0000739)  
 Peng Liu<sup>\*</sup>, **Yueying Chu**, Yandong Zhao, and Siming Zhai (2025). *Psychology of Aesthetics, Creativity, and the Arts* (Advance online publication).
