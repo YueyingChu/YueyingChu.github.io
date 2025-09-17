@@ -16,6 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+Welcome to my academic homepage! Here you can find my [Curriculum Vitae](/docs/CV_YueyingChu.pdf), publications, and research interests.
+
 I am currently a PhD candidate in Psychology at Zhejiang University, affiliated with the Center for Psychological Sciences and the Department of Psychology and Behavioral Sciences. Since 2025, I have also been a visiting PhD student at the Centre for Biomedical Ethics, National University of Singapore.
 
 My research integrates perspectives from machine psychology and moral psychology to explore how individuals make moral judgments in both human and human–AI contexts. I am particularly interested in the role of interpersonal relationships in shaping moral evaluations and responsibility attributions. My work combines experimental methods with behavioral analysis to understand how emerging technologies challenge and transform moral cognition.
