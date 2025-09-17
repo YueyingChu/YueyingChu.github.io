@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Welcome to my academic homepage! Here you can find my [Curriculum Vitae](/docs/CV_YueyingChu.pdf), publications, and research interests.
+Welcome to my academic homepage! Here you can find my [Curriculum Vitae](/_pages/CV_YueyingChu.pdf), publications, and research interests.
 
 I am currently a PhD candidate in Psychology at Zhejiang University, affiliated with the Center for Psychological Sciences and the Department of Psychology and Behavioral Sciences. Since 2025, I have also been a visiting PhD student at the Centre for Biomedical Ethics, National University of Singapore.
 
