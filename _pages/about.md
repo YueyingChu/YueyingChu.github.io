@@ -91,10 +91,11 @@ Lan Lan<sup>#</sup>, Yunhao Cai<sup>#</sup>, **Yueying Chu**, Wenting Tang, Yuch
 - *2020.09* Zhejiang Provincial Scholarship (2019-2020)
 
 # 📄 Academic Service
-- **Reviewer:** Journal of Medical Ethics
+- **Reviewer:** Journal of Medical Ethics, AAAI 2026
 - **Co-chair:** AHFE2024 Session 102: Interaction with Emerging Technologies II
 - **Co-chair:** HCII2023 S012: Human and social sides of automated vehicles
 
 # 📖 Educations
-- *2022.09 - now*, PhD candicate, Zhejiang Univeristy, Hangzhou. 
+- *2022.09 - Present*, PhD candicate, Zhejiang Univeristy, Hangzhou.
+- *2025.03 - 2026.03*, [Visiting PhD student](https://medicine.nus.edu.sg/cbme/people_uri/chu-yueying/), NUS, Singapore.
 - *2018.09 - 2022.06*, Undergraduate, Zhejiang Univeristy, Hangzhou.
