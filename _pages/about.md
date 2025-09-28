@@ -25,6 +25,9 @@ My research integrates perspectives from machine psychology and moral psychology
 # 📝 Publications
 <sup>#</sup>These authors contributed equally to this work; <sup>\*</sup>Corresponding author(s)
 ## Peer-reviewed journal articles
+- [Personalizing AI Art Boosts Credit, Not Beauty](https://doi.org/10.1016/j.techsoc.2025.103055)  
+Maryam Ali Khan, Elzė Sigutė Mikalonytė, Sebastian Porsdam Mann, Peng Liu, **Yueying Chu**, Mario Attie-Picker, Mey Bahar Buyukbabani, Julian Savulescu<sup>\*</sup>, Ivar R. Hannikainen, Brian D. Earp<sup>\*</sup> (in press). *Technology in Society*
+
 - [To Apologize or Not to Apologize? Trust Repair After Automated Vehicles' Mistake](https://doi.org/10.1177/03611981251355535)  
 Yunhao Cai<sup>#</sup>, **Yueying Chu<sup>#</sup>**, Zhigang Xu, Peng Liu<sup>\*</sup> (in press). *Transportation Research Record*
 
