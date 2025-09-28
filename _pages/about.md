@@ -56,7 +56,7 @@ Peng Liu, **Yueying Chu**, Guanqun Wang, and Zhigang Xu<sup>\*</sup> (2024). *IE
 Peng Liu<sup>\*</sup>, Manqing Du, Zhigang Xu, and **Yueying Chu** (2022). *Transportation Research Part F: Traffic Psychology and Behaviour*, *87*, 264-278.
 
 ## Peer-reviewed conference proceedings and papers
-- **Examining Cross-Cultural Differences in Intelligent Vehicle Agents: Repair Strategies after Their Failures.**  
+- **Examining Cross-Cultural Differences in Intelligent Vehicle Agents: Repair Strategies after Their Failures.**  (🎉**Best Paper Nominee**)  
 Lan Lan<sup>#</sup>, Yunhao Cai<sup>#</sup>, **Yueying Chu**, Wenting Tang, Yuchu Chen, Peng Liu<sup>\*</sup>. In *17th International ACM Conference on Automotive User Interfaces and Interactive Vehicular Applications (Automotive UI ’25)*, Brisbane, Australia, Sep 22-25.
 
 - [Privacy Concern and Acceptability of Driver Monitoring System](https://doi.org/10.54941/ahfe1004419)  
