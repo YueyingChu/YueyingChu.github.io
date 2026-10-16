@@ -35,42 +35,42 @@ My current research focuses on human-LLM alignment: how large language models co
     <h3><a href="https://osf.io/preprints/psyarxiv/zt6vh_v1">People want human and AI social partners to follow different relational norms despite similar roles</a></h3>
     <p class="pub-authors">Madeline G. Reinecke<sup>*</sup>, <strong>Yueying Chu</strong>, Ivar Rodríguez Hannikainen, Andreas Kappes, Sebastian Porsdam Mann, Ilina Singh<sup>#</sup>, Julian Savulescu<sup>#</sup>, and Brian D. Earp<sup>*</sup></p>
     <p class="pub-venue"><em>PsyArXiv</em> preprint, 2026.</p>
-    <p class="pub-links"><a href="https://osf.io/preprints/psyarxiv/zt6vh_v1">Preprint</a></p>
+    <p class="pub-links"><span class="pub-type">Journal</span> <a class="pub-preprint" href="https://osf.io/preprints/psyarxiv/zt6vh_v1">Preprint</a></p>
   </article>
 
   <article class="pub-entry">
     <h3><a href="https://doi.org/10.1080/10447318.2025.2526593">Road Rage Against the Machine: Humans and LLMs Share a Blame Bias Against Driverless Cars</a></h3>
     <p class="pub-authors"><strong>Yueying Chu</strong>, Peng Liu<sup>*</sup>, Julian Savulescu, and Brian D. Earp</p>
     <p class="pub-venue">In <em>International Journal of Human-Computer Interaction</em>, 2026.</p>
-    <p class="pub-links"><a href="https://doi.org/10.1080/10447318.2025.2526593">DOI</a></p>
+    <p class="pub-links"><span class="pub-type">Journal</span> <a class="pub-doi" href="https://doi.org/10.1080/10447318.2025.2526593">DOI</a></p>
   </article>
 
   <article class="pub-entry">
     <h3><a href="https://doi.org/10.1016/j.techsoc.2025.103055">Personalizing AI Art Boosts Credit, Not Beauty</a></h3>
     <p class="pub-authors">Maryam Ali Khan, Elzė Sigutė Mikalonytė, Sebastian Porsdam Mann, Peng Liu, <strong>Yueying Chu</strong>, Mario Attie-Picker, Mey Bahar Buyukbabani, Julian Savulescu<sup>*</sup>, Ivar R. Hannikainen, and Brian D. Earp<sup>*</sup></p>
     <p class="pub-venue">In <em>Technology in Society</em>, 2026.</p>
-    <p class="pub-links"><a href="https://doi.org/10.1016/j.techsoc.2025.103055">DOI</a></p>
+    <p class="pub-links"><span class="pub-type">Journal</span> <a class="pub-doi" href="https://doi.org/10.1016/j.techsoc.2025.103055">DOI</a></p>
   </article>
 
   <article class="pub-entry">
     <h3><a href="https://psycnet.apa.org/doi/10.1037/aca0000739">Machine Creativity: Aversion, Appreciation, or Indifference?</a></h3>
     <p class="pub-authors">Peng Liu<sup>*</sup>, <strong>Yueying Chu</strong>, Yandong Zhao, and Siming Zhai</p>
     <p class="pub-venue">In <em>Psychology of Aesthetics, Creativity, and the Arts</em>, 2026.</p>
-    <p class="pub-links"><a href="https://psycnet.apa.org/doi/10.1037/aca0000739">DOI</a></p>
+    <p class="pub-links"><span class="pub-type">Journal</span> <a class="pub-doi" href="https://psycnet.apa.org/doi/10.1037/aca0000739">DOI</a></p>
   </article>
 
   <article class="pub-entry">
     <h3><a href="https://doi.org/10.1111/nyas.15258">Credit and Blame for AI-Generated Content: Effects of Personalization in Four Countries</a></h3>
     <p class="pub-authors">Brian D. Earp<sup>#</sup>, Sebastian Porsdam Mann<sup>#</sup>, Peng Liu<sup>#, *</sup>, Ivar Hannikainen<sup>#, *</sup>, Maryam Ali Khan, <strong>Yueying Chu</strong>, and Julian Savulescu</p>
     <p class="pub-venue">In <em>Annals of the New York Academy of Sciences</em>, 2024.</p>
-    <p class="pub-links"><a href="https://doi.org/10.1111/nyas.15258">DOI</a></p>
+    <p class="pub-links"><span class="pub-type">Journal</span> <a class="pub-doi" href="https://doi.org/10.1111/nyas.15258">DOI</a></p>
   </article>
 
   <article class="pub-entry">
     <h3><a href="https://doi.org/10.1016/j.xinn.2023.100449">Public aversion against ChatGPT in creative fields?</a></h3>
     <p class="pub-authors"><strong>Yueying Chu</strong> and Peng Liu<sup>*</sup></p>
     <p class="pub-venue">In <em>The Innovation</em>, 2023.</p>
-    <p class="pub-links"><a href="https://doi.org/10.1016/j.xinn.2023.100449">DOI</a></p>
+    <p class="pub-links"><span class="pub-type">Journal</span> <a class="pub-doi" href="https://doi.org/10.1016/j.xinn.2023.100449">DOI</a></p>
   </article>
 </section>
 
@@ -84,14 +84,14 @@ My current research focuses on human-LLM alignment: how large language models co
     <h3><a href="https://doi.org/10.1016/j.cognition.2024.106011">Morality on the road: Should machine drivers be more utilitarian than human drivers?</a></h3>
     <p class="pub-authors">Peng Liu<sup>*</sup>, <strong>Yueying Chu</strong>, Siming Zhai, Tingru Zhang<sup>*</sup>, and Edmond Awad</p>
     <p class="pub-venue">In <em>Cognition</em>, 2025.</p>
-    <p class="pub-links"><a href="https://doi.org/10.1016/j.cognition.2024.106011">DOI</a></p>
+    <p class="pub-links"><span class="pub-type">Journal</span> <a class="pub-doi" href="https://doi.org/10.1016/j.cognition.2024.106011">DOI</a></p>
   </article>
 
   <article class="pub-entry">
     <h3><a href="https://doi.org/10.1016/j.cognition.2023.105575">Machines and humans in sacrificial moral dilemmas: Required similarly but judged differently?</a></h3>
     <p class="pub-authors"><strong>Yueying Chu</strong> and Peng Liu<sup>*</sup></p>
     <p class="pub-venue">In <em>Cognition</em>, 2023.</p>
-    <p class="pub-links"><a href="https://doi.org/10.1016/j.cognition.2023.105575">DOI</a></p>
+    <p class="pub-links"><span class="pub-type">Journal</span> <a class="pub-doi" href="https://doi.org/10.1016/j.cognition.2023.105575">DOI</a></p>
   </article>
 </section>
 
@@ -105,42 +105,42 @@ My current research focuses on human-LLM alignment: how large language models co
     <h3><a href="https://doi.org/10.1080/10447318.2026.2682916">Can External Human-Machine Interfaces Promote Human Drivers' Prosocial Intentions Toward Automated Vehicles in Mixed Traffic?</a></h3>
     <p class="pub-authors"><strong>Yueying Chu</strong><sup>#</sup>, Jinglei Chen<sup>#</sup>, Yunhao Cai, Zhigang Xu, and Peng Liu<sup>*</sup></p>
     <p class="pub-venue">In <em>International Journal of Human-Computer Interaction</em>, 2026.</p>
-    <p class="pub-links"><a href="https://doi.org/10.1080/10447318.2026.2682916">DOI</a></p>
+    <p class="pub-links"><span class="pub-type">Journal</span> <a class="pub-doi" href="https://doi.org/10.1080/10447318.2026.2682916">DOI</a></p>
   </article>
 
   <article class="pub-entry">
     <h3><a href="https://doi.org/10.1177/03611981251355535">To Apologize or Not to Apologize? Trust Repair After Automated Vehicles' Mistakes</a></h3>
     <p class="pub-authors">Yunhao Cai<sup>#</sup>, <strong>Yueying Chu<sup>#</sup></strong>, Zhigang Xu, and Peng Liu<sup>*</sup></p>
     <p class="pub-venue">In <em>Transportation Research Record</em>, 2026.</p>
-    <p class="pub-links"><a href="https://doi.org/10.1177/03611981251355535">DOI</a></p>
+    <p class="pub-links"><span class="pub-type">Journal</span> <a class="pub-doi" href="https://doi.org/10.1177/03611981251355535">DOI</a></p>
   </article>
 
   <article class="pub-entry">
     <h3><a href="https://doi.org/10.1080/10447318.2025.2607570">Can Anthropomorphic Intelligent Vehicle Agents Restore Trust in Automated Vehicles After Failures?</a></h3>
     <p class="pub-authors">Yunhao Cai<sup>#</sup>, <strong>Yueying Chu<sup>#</sup></strong>, Xiaofei Yu, Hao Tan<sup>*</sup>, and Peng Liu<sup>*</sup></p>
     <p class="pub-venue">In <em>International Journal of Human-Computer Interaction</em>, 2026.</p>
-    <p class="pub-links"><a href="https://doi.org/10.1080/10447318.2025.2607570">DOI</a></p>
+    <p class="pub-links"><span class="pub-type">Journal</span> <a class="pub-doi" href="https://doi.org/10.1080/10447318.2025.2607570">DOI</a></p>
   </article>
 
   <article class="pub-entry">
     <h3><a href="https://doi.org/10.1109/THMS.2024.3434680">To Err is Automation: Can Trust be Repaired by the Automated Driving System After its Failure?</a></h3>
     <p class="pub-authors">Peng Liu, <strong>Yueying Chu</strong>, Guanqun Wang, and Zhigang Xu<sup>*</sup></p>
     <p class="pub-venue">In <em>IEEE Transactions on Human-Machine Systems</em>, 2024.</p>
-    <p class="pub-links"><a href="https://doi.org/10.1109/THMS.2024.3434680">DOI</a></p>
+    <p class="pub-links"><span class="pub-type">Journal</span> <a class="pub-doi" href="https://doi.org/10.1109/THMS.2024.3434680">DOI</a></p>
   </article>
 
   <article class="pub-entry">
     <h3><a href="https://doi.org/10.1145/3744333.3747832">Examining Cross-Cultural Differences in Intelligent Vehicle Agents: Repair Strategies after Their Failures</a></h3>
     <p class="pub-authors">Lan Lan<sup>#</sup>, Yunhao Cai<sup>#</sup>, <strong>Yueying Chu</strong>, Wenting Tang, Yuchu Chen, and Peng Liu<sup>*</sup></p>
     <p class="pub-venue">In <em>AutomotiveUI '25</em>, 2025. <strong>Best Paper Nominee</strong>.</p>
-    <p class="pub-links"><a href="https://doi.org/10.1145/3744333.3747832">DOI</a></p>
+    <p class="pub-links"><span class="pub-type">Conference</span> <a class="pub-doi" href="https://doi.org/10.1145/3744333.3747832">DOI</a></p>
   </article>
 
   <article class="pub-entry">
     <h3><a href="https://doi.org/10.1177/1071181322661390">What does that car mean? The influence of vehicle motion and symbolic patterns of LED signals on pedestrians' interpretation of a vehicle's intent</a></h3>
     <p class="pub-authors"><strong>Yueying Chu</strong>, Deveshwar Hariharan, Seth Hollar, and Jing Feng<sup>*</sup></p>
     <p class="pub-venue">In <em>Proceedings of the Human Factors and Ergonomics Society Annual Meeting</em>, 2022.</p>
-    <p class="pub-links"><a href="https://doi.org/10.1177/1071181322661390">DOI</a></p>
+    <p class="pub-links"><span class="pub-type">Conference</span> <a class="pub-doi" href="https://doi.org/10.1177/1071181322661390">DOI</a></p>
   </article>
 </section>
 
@@ -151,49 +151,62 @@ My current research focuses on human-LLM alignment: how large language models co
   </div>
 
   <article class="pub-entry">
+    <h3><a href="https://doi.org/10.1038/s44172-026-00793-3">Automated vehicles drive safer but induce riskier behavior in human drivers in car-following scenarios</a></h3>
+    <p class="pub-authors"><strong>Yueying Chu</strong><sup>#</sup>, Ying Gao<sup>#</sup>, Zhigang Xu<sup>*</sup>, and Peng Liu<sup>*</sup></p>
+    <p class="pub-venue">In <em>Communications Engineering</em>, 2026.</p>
+    <p class="pub-links"><span class="pub-type">Journal</span> <a class="pub-doi" href="https://doi.org/10.1038/s44172-026-00793-3">DOI</a></p>
+  </article>
+
+  <article class="pub-entry">
     <h3><a href="https://doi.org/10.1016/j.trf.2025.103447">Imperfect advanced driver assistance systems in the eyes of imperfect users</a></h3>
     <p class="pub-authors"><strong>Yueying Chu<sup>#</sup></strong>, Wenting Tang<sup>#</sup>, Shanguang Chen<sup>*</sup>, and Peng Liu<sup>*</sup></p>
     <p class="pub-venue">In <em>Transportation Research Part F: Traffic Psychology and Behaviour</em>, 2026.</p>
-    <p class="pub-links"><a href="https://doi.org/10.1016/j.trf.2025.103447">DOI</a></p>
+    <p class="pub-links"><span class="pub-type">Journal</span> <a class="pub-doi" href="https://doi.org/10.1016/j.trf.2025.103447">DOI</a></p>
   </article>
 
   <article class="pub-entry">
     <h3><a href="https://doi.org/10.1080/00140139.2023.2210793">Automation complacency on the road.</a></h3>
     <p class="pub-authors"><strong>Yueying Chu</strong> and Peng Liu<sup>*</sup></p>
     <p class="pub-venue">In <em>Ergonomics</em>, 2023.</p>
-    <p class="pub-links"><a href="https://doi.org/10.1080/00140139.2023.2210793">DOI</a></p>
+    <p class="pub-links"><span class="pub-type">Journal</span> <a class="pub-doi" href="https://doi.org/10.1080/00140139.2023.2210793">DOI</a></p>
   </article>
 
   <article class="pub-entry">
     <h3><a href="https://doi.org/10.1016/j.trf.2022.04.010">People with more misconceptions about automated vehicles might be more positive toward them.</a></h3>
     <p class="pub-authors">Peng Liu<sup>*</sup>, Manqing Du, Zhigang Xu, and <strong>Yueying Chu</strong></p>
     <p class="pub-venue">In <em>Transportation Research Part F: Traffic Psychology and Behaviour</em>, 2022.</p>
-    <p class="pub-links"><a href="https://doi.org/10.1016/j.trf.2022.04.010">DOI</a></p>
+    <p class="pub-links"><span class="pub-type">Journal</span> <a class="pub-doi" href="https://doi.org/10.1016/j.trf.2022.04.010">DOI</a></p>
   </article>
 
   <article class="pub-entry">
     <h3><a href="https://doi.org/10.1007/978-3-032-30798-9_17">Causation Analysis of Vehicle Driving Automation-Related Accidents</a></h3>
     <p class="pub-authors">Yunhao Cai, <strong>Yueying Chu</strong>, Yijing Zhang, Peng Liu, and Shanguang Chen</p>
     <p class="pub-venue">In <em>HCI in Mobility, Transport, and Automotive Systems</em>, 2026.</p>
-    <p class="pub-links"><a href="https://doi.org/10.1007/978-3-032-30798-9_17">DOI</a></p>
+    <p class="pub-links"><span class="pub-type">Conference</span> <a class="pub-doi" href="https://doi.org/10.1007/978-3-032-30798-9_17">DOI</a></p>
   </article>
 
   <article class="pub-entry">
     <h3><a href="https://doi.org/10.54941/ahfe1004419">Privacy Concern and Acceptability of Driver Monitoring System</a></h3>
     <p class="pub-authors"><strong>Yueying Chu</strong>, Zihui Yuan, and Peng Liu<sup>*</sup></p>
     <p class="pub-venue">In <em>AHFE 2023 Hawaii Edition</em>, 2023.</p>
-    <p class="pub-links"><a href="https://doi.org/10.54941/ahfe1004419">DOI</a></p>
+    <p class="pub-links"><span class="pub-type">Conference</span> <a class="pub-doi" href="https://doi.org/10.54941/ahfe1004419">DOI</a></p>
   </article>
 
   <article class="pub-entry">
     <h3><a href="https://doi.org/10.1007/978-3-031-35678-0_1">Human factor risks in driving automation crashes</a></h3>
     <p class="pub-authors"><strong>Yueying Chu</strong> and Peng Liu<sup>*</sup></p>
     <p class="pub-venue">In <em>HCI in Mobility, Transport and Automotive Systems</em>, 2023. <strong>Best Paper Award</strong>.</p>
-    <p class="pub-links"><a href="https://doi.org/10.1007/978-3-031-35678-0_1">DOI</a></p>
+    <p class="pub-links"><span class="pub-type">Conference</span> <a class="pub-doi" href="https://doi.org/10.1007/978-3-031-35678-0_1">DOI</a></p>
   </article>
 </section>
 
 <h1 id="presentations-and-posters">Presentations &amp; Posters</h1>
+
+<article class="pub-entry">
+  <h3><a href="https://coms.events/epsa-llm-26/data/sessions/en/session_76.html">Testing Rationality in LLMs: Responsibility Attribution in the Absence of Control</a></h3>
+  <p class="pub-authors"><strong>Oral</strong>, October 16, 2026</p>
+  <p class="pub-venue">LLM &amp; Social Sciences Conference (LLMSS 2026). October 14–16, 2026, City University of Hong Kong, Hong Kong, China.</p>
+</article>
 
 <article class="pub-entry">
   <h3>To Apologize or Not to Apologize? Trust Repair After Automated Vehicles' Mistake</h3>
@@ -244,12 +257,14 @@ My current research focuses on human-LLM alignment: how large language models co
 </article>
 
 <h1 id="selected-honors-and-awards">Selected Honors &amp; Awards</h1>
-- *2025* China Association for Science and Technology (CAST) Youth Talent Support Program for PhD Students (中国科协青年科技人才培育工程博士生专项计划)
-- *2024* Zhejiang University Qiushi Xinxing Program (浙江大学求是新星培养计划)
-- *2024.12* Zhejiang University Qiushi Feiying Program (NUS visiting student)
-- *2022.06* Outstanding Graduates of Zhejiang University, 2022
-- *2021.09* Zhejiang University Scholarship - First Prize (Top 3%) (2020-2021)
-- *2020.09* Zhejiang Provincial Scholarship (2019-2020)
+
+- National Scholarship (国家奖学金), Ministry of Education, China, 2026.10
+- Chu Kochen Scholarship Candidate (竺可桢奖学金候选人，面试入围), Zhejiang University, China, 2026.10
+- China Association for Science and Technology (CAST) Youth Talent Support Program for PhD Students (中国科协青年科技人才培育工程博士生专项计划), 2025
+- Zhejiang University Qiushi Xinxing Program (浙江大学求是新星培养计划), 2024
+- Outstanding Graduates of Zhejiang University (浙江大学优秀毕业生), 2022
+- Zhejiang University Scholarship - First Prize (Top 3%) (浙江大学一等奖学金), 2021
+- Zhejiang Provincial Scholarship (浙江省政府奖学金), 2020
 
 # Academic Service
 - **Reviewer:** AI & Society, AI and Ethics, Cities, Computers in Human Behavior Reports, Ergonomics, Scientific Reports, Journal of Medical Ethics, AAAI 2026, etc.

@@ -199,6 +199,29 @@
     .pub-links {
       margin-top: 0.32em;
 
+      .pub-type {
+        display: inline-block;
+        margin-right: 0.45em;
+        padding: 0.22em 0.68em;
+        color: #425466;
+        font-size: 0.82em;
+        font-weight: 700;
+        line-height: 1.2;
+        background: #edf2f6;
+        border-radius: $border-radius;
+      }
+
+      a.pub-doi,
+      a.pub-preprint {
+        color: #425466;
+        background: #edf2f6;
+
+        &:hover {
+          color: #263545;
+          background: #dce3e9;
+        }
+      }
+
       a {
         display: inline-block;
         margin-right: 0.45em;
